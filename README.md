@@ -2,4 +2,4 @@
 
 #To build image execute "docker build -t <imagename> ."
 
-# To run container execute command "docker run -p 5000:5000 <imagename>
+# To run container execute command "docker run -p 5000:5000 <imagename>"
